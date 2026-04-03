@@ -1,9 +1,9 @@
 <div align="center">
 
-![Milan Jani Banner](banner.png)
+![Milan Jani Banner](milan_jani_banner_1775189432799.png)
 
 # 👨‍💻 Hi, I'm Milan Jani
-**Embedded Systems & VLSI Aspirant | B.Tech (ICT) Student @ Marwadi University**
+**Embedded Systems & VLSI Aspirant | B.Tech (ICT) Student**
 
 ### *"Eager to Learn, Driven to Contribute"*
 
