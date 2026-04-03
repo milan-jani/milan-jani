@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Gemini_Generated_Image_7lstyw7lstyw7lst.png" width="100%" style="max-width: 894px; border-radius: 8px;" alt="Milan Jani Banner" />
+  <img src="Gemini_Generated_Image_7lstyw7lstyw7lst copy.png" width="100%" style="max-width: 894px; border-radius: 8px;" alt="Milan Jani Banner" />
   <p align="right">
     <img src="https://komarev.com/ghpvc/?username=milan-jani&color=blue&style=flat-square" alt="Views" />
   </p>
