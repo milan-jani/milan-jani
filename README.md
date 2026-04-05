@@ -81,5 +81,5 @@ I am a dedicated **B.Tech ICT Student** at Marwadi University with a core focus 
 <br />
 
 <div align="center">
-  <sub>Generated with ❤️ for Milan Jani</sub>
+  
 </div>
