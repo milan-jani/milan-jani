@@ -1,85 +1,72 @@
 <div align="center">
-  <img src="Gemini_Generated_Image_7lstyw7lstyw7lst copy.png" width="100%" style="max-width: 894px; border-radius: 8px;" alt="Milan Jani Banner" />
-  <p align="right">
-    <img src="https://komarev.com/ghpvc/?username=milan-jani&color=blue&style=flat-square" alt="Views" />
-  </p>
-</div>
+  
+  # Hi there, I'm Milan Dineshbhai Jani 👋
+  
+  ### Embedded Systems, VLSI & Robotics Engineer
+  
+  *Bridging the gap between hardware architecture and intelligent software.*
 
-<div align="center">
-  <h1>👨‍💻 Milan Jani</h1>
-  <p><b>Embedded Systems & VLSI Aspirant | B.Tech (ICT) @ Marwadi University</b></p>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-4A4E69?style=for-the-badge&logo=linkedin&logoColor=F2E9E4)](https://linkedin.com/in/milan-jani)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-9A8C98?style=for-the-badge&logo=googlechrome&logoColor=F2E9E4)](#)
 
-  <p>
-    <a href="https://www.linkedin.com/in/milan-jani/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://github.com/milan-jani"><img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="mailto:janimilan7077@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  </p>
 </div>
 
 ---
 
-### 🚀 About Me
-I am a dedicated **B.Tech ICT Student** at Marwadi University with a core focus on **Embedded Systems**, **VLSI Design**, and **Hardware-Software Co-Design**. Currently specializing in automating backend IC design flows and hardware prototyping.
+### 💡 About Me
+
+I specialize in designing and optimizing complex hardware systems, from PCB design and circuit simulation to deploying local AI models on edge devices. 
+
+- 🔭 Currently working on: **Robotics integration and local LLM deployment (Gemma/Ollama)**
+- 🌱 Deep diving into: **Advanced VLSI core concepts and Knowledge Distillation**
+- 🛠️ Building tools for: **Synthetic dataset architecture and workflow automation**
+- 💬 Ask me about: **Serial communication (UART, SPI, I2C), C++, Python, and Hardware Cloning**
+- ⚡ Fun fact: I occasionally write poetry and shayari when I'm not debugging circuits.
 
 ---
 
-### 📊 GitHub Profile Stats
+### 🛠️ Tech Stack & Tools
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=milan-jani&show_icons=true&bg_color=00000000&hide_border=true&title_color=3382ed&icon_color=3382ed&text_color=ffffff&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milan-jani&layout=compact&bg_color=00000000&hide_border=true&title_color=3382ed&text_color=ffffff&langs_count=6" alt="Top Languages" height="165" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=milan-jani&background=00000000&hide_border=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed" alt="Streak Stats" height="165" />
+  
+  **Hardware & Embedded**<br>
+  <img src="https://img.shields.io/badge/VLSI-4A4E69?style=flat-square&logo=e&logoColor=F2E9E4" alt="VLSI" />
+  <img src="https://img.shields.io/badge/Robotics-9A8C98?style=flat-square&logo=ros&logoColor=F2E9E4" alt="Robotics" />
+  <img src="https://img.shields.io/badge/PCB_Design-22223B?style=flat-square&logo=altiumdesigner&logoColor=F2E9E4" alt="PCB Design" />
+  <img src="https://img.shields.io/badge/UART_|_SPI_|_I2C-4A4E69?style=flat-square&logo=arduino&logoColor=F2E9E4" alt="Protocols" />
+  
+  <br>**Software & Data**<br>
+  <img src="https://img.shields.io/badge/C++-9A8C98?style=flat-square&logo=cplusplus&logoColor=F2E9E4" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-22223B?style=flat-square&logo=python&logoColor=F2E9E4" alt="Python" />
+  <img src="https://img.shields.io/badge/Local_AI_(Ollama)-4A4E69?style=flat-square&logo=ollama&logoColor=F2E9E4" alt="Local AI" />
+  <img src="https://img.shields.io/badge/Data_Architecture-9A8C98?style=flat-square&logo=databricks&logoColor=F2E9E4" alt="Data" />
+
 </div>
 
-
 ---
 
-### 🛠️ Technical Skills
+### 📊 GitHub Analytics
 
-<p align="left">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/verilog-%23E0E0E0.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Verilog" />
-  <img src="https://img.shields.io/badge/tcl-blue.svg?style=for-the-badge" alt="TCL" />
-  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell" />
-</p>
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| 🔋 **Embedded** | `Arduino`, `ESP32`, `STM32`, `Raspberry Pi`, `8051` |
-| 🛠️ **Tools** | `NVIDIA Isaac Sim/Lab`, `MATLAB`, `Proteus`, `Keil`, `CCS`, `Git/GitHub` |
-| 🛰️ **Protocols** | `UART`, `SPI`, `I2C`, `CAN` |
-| 🧠 **Core** | `VLSI Design`, `Digital Electronics`, `DSA`, `Computer Architecture` |
-
----
-
-### 👔 Academic & Professional Journey
-
-- **⚡ VLSI Intern** | *Microcircuits Innovations Pvt. Ltd.*
-- **🔍 Research Intern** | *Marwadi University*
-- **🎓 Education** | *B.Tech ICT @ Marwadi University* (CPI: **9.03**)
-
----
-
-### 🏆 Key Projects & Achievements
-
-- 📜 **Patent**: *LPG Cylinder Monitoring and Leak Alert System* (No: 202421033238).
-- 🤖 **Robotics**: Motion planning & control in **NVIDIA Isaac Sim**.
-- 🚗 **Computer Vision**: Smart Vehicle Entry-Exit Logging via **OpenCV**.
-
----
+*These stats update automatically and are styled with a custom mid-tone, soft-contrast palette.*
 
 <div align="center">
-  <h3>📫 Let's Connect!</h3>
-  <p>Always open to collaborating on <b>Embedded & VLSI</b> hardware projects.</p>
-  <a href="https://www.linkedin.com/in/milan-jani/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:janimilan7077@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  
+  <a href="https://github.com/milan-jani">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=milan-jani&show_icons=true&bg_color=F2E9E4&title_color=4A4E69&text_color=22223B&icon_color=9A8C98&hide_border=true&include_all_commits=true" alt="Milan's GitHub Stats" />
+  </a>
+  <a href="https://github.com/milan-jani">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milan-jani&layout=compact&bg_color=F2E9E4&title_color=4A4E69&text_color=22223B&hide_border=true" alt="Top Languages" />
+  </a>
+  
+  <br><br>
+  
+  <a href="https://github.com/milan-jani">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=milan-jani&theme=custom&background=F2E9E4&title=4A4E69&text=22223B&icon=9A8C98&stat=22223B&border=F2E9E4&hide_border=true" alt="GitHub Streak" />
+  </a>
+
 </div>
 
-
-<br />
-
+---
 <div align="center">
-  <sub>Generated with ❤️ for Milan Jani</sub>
+  <p><i>"Engineering the future, one circuit and line of code at a time."</i></p>
 </div>
