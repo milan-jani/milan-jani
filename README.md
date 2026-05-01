@@ -55,7 +55,7 @@ Interests:
 
 <h3>Tech & Platforms</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=raspberrypi,linux,ros,git,github,vscode,docker&theme=dark" alt="Tech & Platforms" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,docker,raspberrypi&theme=dark" alt="Tech & Platforms" />
   <img src="https://img.shields.io/badge/NVIDIA_Omniverse-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA Omniverse" />
 </p>
 
@@ -63,7 +63,7 @@ Interests:
 
 | Category | Technologies |
 |:---|:---|
-| **Core & VLSI** | ASIC Flow · Circuit Layout · Verilog (HDL) · TCL Scripting · Isaac Sim & Lab |
+| **Core & VLSI** | ASIC Flow · Circuit Layout · Verilog (HDL) · Reinforcement Learning (RL) · Isaac Sim & Lab |
 | **Languages** | C · C++ · Embedded C · Python · Shell Scripting |
 | **MCUs / SBCs** | ARM · MSP430 · ESP32 · Raspberry Pi |
 | **Tools & Platforms** | Keil · CCS · KiCad · LTspice · Microwind · Proteus · Docker · Linux |
