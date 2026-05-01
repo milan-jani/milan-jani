@@ -3,11 +3,11 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!-- Capsule Render — Animated Waving Header -->
 <!-- ═══════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4338ca,50:6366f1,100:818cf8&height=220&section=header&text=Milan%20Jani&fontSize=72&fontColor=e0e7ff&fontAlignY=35&desc=Embedded%20Systems%20%7C%20VLSI%20%7C%20Robotics&descSize=18&descColor=c7d2fe&descAlignY=55&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4338ca,50:6366f1,100:818cf8&height=220&section=header&text=Milan%20Jani&fontSize=72&fontColor=e0e7ff&fontAlignY=35&desc=VLSI%20%7C%20Embedded%20Systems%20%7C%20Robotics&descSize=18&descColor=c7d2fe&descAlignY=55&animation=twinkling" />
 
 <!-- Typing SVG Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.app?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=A5B4FC&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Bridging+Hardware+%26+Intelligent+Software;From+Circuit+Design+to+Edge+AI+Deployment;Engineering+the+Future+One+Chip+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=A5B4FC&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Designing+the+Brains+behind+the+Machines;Mastering+the+Art+of+Digital+Logic+%26+Verilog;Real-time+System+Design+%26+Edge+Intelligence" alt="Typing SVG" />
 </a>
 
 <br>
@@ -31,8 +31,8 @@ Location: India
 Focus Areas:
   - VLSI: ASIC Flow, Circuit Layout & Backend Verification
   - Embedded: ARM, MSP430 & ESP32 System Design
-  - Robotics: Motion planning & control in NVIDIA Isaac Sim
-  - Research: MIMO Antenna & FEM Simulation
+  - Robotics: Motion planning & control in Isaac Sim & Lab
+  - Research: MIMO Antenna Analysis
 
 Interests:
   - Hardware-Software Co-Design
@@ -49,28 +49,25 @@ Interests:
 
 <h3>Languages</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,bash,matlab&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,bash&theme=dark" alt="Languages" />
+  <img src="https://img.shields.io/badge/Verilog-F8F8F8?style=flat-square&logo=verilog&logoColor=black" alt="Verilog" />
 </p>
 
-<h3>MCUs / SBCs</h3>
+<h3>Tech & Platforms</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=raspberrypi,linux,ros&theme=dark" alt="Embedded" />
-</p>
-
-<h3>Tools & Platforms</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi,linux,ros,git,github,vscode,docker&theme=dark" alt="Tech & Platforms" />
+  <img src="https://img.shields.io/badge/NVIDIA_Omniverse-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA Omniverse" />
 </p>
 
 <br>
 
 | Category | Technologies |
 |:---|:---|
-| **Languages** | C · C++ · Embedded C · Python · Verilog (HDL) · Shell/TCL Scripting |
-| **MCUs / SBCs** | ARM · MSP430 · ESP32 · ESP8266 · Raspberry Pi |
+| **Core & VLSI** | ASIC Flow · Circuit Layout · Verilog (HDL) · TCL Scripting · Isaac Sim & Lab |
+| **Languages** | C · C++ · Embedded C · Python · Shell Scripting |
+| **MCUs / SBCs** | ARM · MSP430 · ESP32 · Raspberry Pi |
 | **Tools & Platforms** | Keil · CCS · KiCad · LTspice · Microwind · Proteus · Docker · Linux |
 | **Protocols** | UART · SPI · I2C · CAN |
-| **Core & Sim** | ASIC Flow · Circuit Layout · NVIDIA Isaac Sim · FEM Simulation |
 
 </div>
 
@@ -81,30 +78,35 @@ Interests:
 
 <div align="center">
 
-<!-- GitHub Stats Card -->
+<!-- Profile Details (Static SVG — always loads) -->
 <a href="https://github.com/milan-jani">
-  <img height="180em" src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
+  <img height="180em" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
 </a>
 
 <br>
 
 <a href="https://github.com/milan-jani">
-  <img height="180em" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos Per Language" />
+  <img height="180em" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos Per Language" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/milan-jani">
-  <img height="180em" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language" />
+  <img height="180em" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" />
 </a>
 
 <br>
 
 <a href="https://github.com/milan-jani">
-  <img height="180em" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" />
+  <img height="180em" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/milan-jani">
-  <img height="180em" src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time" />
+  <img height="180em" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
 </a>
+
+<br><br>
+
+<!-- 3D Contribution Graph (Generated via GitHub Action — will load after first Action run) -->
+<img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 
 <br><br>
 
@@ -116,7 +118,7 @@ Interests:
 <br><br>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=milan-jani&bg_color=1a1b27&color=a5b4fc&line=c084fc&point=818cf8&area=true&area_color=6366f1&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=milan-jani&bg_color=1a1b27&color=a5b4fc&line=c084fc&point=818cf8&area=true&area_color=6366f1&hide_border=true&custom_title=Contribution%20Graph&timezone=Asia/Kolkata" alt="Contribution Graph" />
 
 <br><br>
 
@@ -136,7 +138,7 @@ Interests:
 |:---:|:---|:---|
 | Patent | **LPG Cylinder Monitoring System** | Patent Publication No: 202421033238 |
 | Project | **Smart Vehicle Entry-Exit System** | Real-time ANPR & ID OCR deployed via Docker on RPi |
-| Project | **Robotic Arm Development** | Simulation and RL training in NVIDIA Isaac Sim |
+| Project | **Robotic Arm Development** | Simulation and RL training in Isaac Sim & Lab |
 | Project | **Adaptive Embedded Security** | Interrupt-driven system on MSP430F5529 |
 | Education | **Academic Excellence** | B.Tech ICT, GPA: 9.03/10 |
 
@@ -152,6 +154,14 @@ Interests:
 
 <a href="https://www.linkedin.com/in/milan-jani/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/Milan_Jani/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+&nbsp;
+<a href="https://www.hackerrank.com/profile/janimilan7077">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
 </a>
 &nbsp;
 <a href="mailto:janimilan7077@gmail.com">

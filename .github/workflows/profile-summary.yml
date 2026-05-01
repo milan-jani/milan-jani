@@ -1,9 +1,9 @@
 name: GitHub Profile Summary Cards
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"  # Runs every 12 hours
-  workflow_dispatch:  # Manual trigger allowed
+  schedule: # Every 12 hours
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -11,15 +11,13 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    name: generate
 
     steps:
-      - uses: actions/checkout@v4
-
+      - uses: actions/checkout@v3
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          USERNAME: milan-jani
-          THEME: github_dark
+          username: ${{ github.repository_owner }}
+          UTC_OFFSET: 5.5
