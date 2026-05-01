@@ -1,20 +1,25 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Milan%20Jani&fontSize=75&fontColor=58a6ff&fontAlignY=35&desc=Embedded%20Systems%20%7C%20VLSI%20%7C%20Robotics&descSize=20&descColor=8b949e&descAlignY=55&animation=twinkling" />
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- Capsule Render — Animated Waving Header -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a18cd1,50:fbc2eb,100:a6c1ee&height=220&section=header&text=Milan%20Jani&fontSize=72&fontColor=ffffff&fontAlignY=35&desc=Embedded%20Systems%20%7C%20VLSI%20%7C%20Robotics&descSize=18&descColor=f0e6ff&descAlignY=55&animation=twinkling" />
 
-<!-- Animated Typing -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%94%A7+Bridging+Hardware+%26+Intelligent+Software;%E2%9A%A1+From+Circuit+Design+to+Edge+AI+Deployment;%F0%9F%9A%80+Engineering+the+Future%2C+One+Chip+at+a+Time)](https://git.io/typing-svg)
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- Typing SVG Animation -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=C9B1FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%94%A7+Bridging+Hardware+%26+Intelligent+Software;%E2%9A%A1+From+Circuit+Design+to+Edge+AI+Deployment;%F0%9F%9A%80+Engineering+the+Future%2C+One+Chip+at+a+Time" alt="Typing SVG" />
+</a>
 
-<!-- Profile Views & Followers -->
 <br>
-![Profile Views](https://komarev.com/ghpvc/?username=milan-jani&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS)
-&nbsp;&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/milan-jani?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=1f6feb)](https://github.com/milan-jani)
+
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=milan-jani&color=a18cd1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
-<!-- Divider -->
+<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
@@ -37,26 +42,26 @@ Interests:
   - 📝 Writing poetry & shayari in free time
 ```
 
-<!-- Divider -->
+<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🛠️ &nbsp;Tech Arsenal
 
 <div align="center">
 
-### ⚙️ Languages & Programming
+<h3>⚙️ Languages & Programming</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,py,bash,matlab&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,bash,matlab&theme=dark" alt="Languages" />
 </p>
 
-### 🔋 Embedded & Hardware
+<h3>🔋 Embedded & Hardware</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,ros&theme=dark" alt="Embedded" />
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,ros&theme=dark" alt="Embedded" />
 </p>
 
-### 🧰 Tools & Platforms
+<h3>🧰 Tools & Platforms</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark" alt="Tools" />
 </p>
 
 <br>
@@ -72,7 +77,7 @@ Interests:
 
 </div>
 
-<!-- Divider -->
+<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 &nbsp;GitHub Analytics
@@ -81,29 +86,34 @@ Interests:
 
 <!-- GitHub Stats Card -->
 <a href="https://github.com/milan-jani">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=milan-jani&show_icons=true&theme=github_dark&bg_color=0d1117&hide_border=true&border_radius=15&include_all_commits=true&count_private=true&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="Milan's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=milan-jani&show_icons=true&bg_color=1a1b27&hide_border=true&border_radius=15&include_all_commits=true&count_private=true&title_color=c9b1ff&icon_color=fbc2eb&text_color=e2e8f0&ring_color=a18cd1&cache_seconds=86400" alt="Milan's GitHub Stats" />
 </a>
 &nbsp;&nbsp;
 <!-- Top Languages Card -->
 <a href="https://github.com/milan-jani">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milan-jani&layout=compact&theme=github_dark&bg_color=0d1117&hide_border=true&border_radius=15&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milan-jani&layout=compact&bg_color=1a1b27&hide_border=true&border_radius=15&title_color=c9b1ff&text_color=e2e8f0&langs_count=8&cache_seconds=86400" alt="Top Languages" />
 </a>
 
 <br><br>
 
 <!-- Streak Stats -->
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=milan-jani&theme=github-dark-blue&hide_border=true&border_radius=15&background=0D1117&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=milan-jani&hide_border=true&border_radius=15&background=1A1B27&ring=a18cd1&fire=fbc2eb&currStreakLabel=c9b1ff&sideLabels=e2e8f0&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=a6adc8" alt="GitHub Streak" />
 </a>
 
 <br><br>
 
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=milan-jani&bg_color=1a1b27&color=c9b1ff&line=fbc2eb&point=a18cd1&area=true&area_color=a18cd1&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+
+<br><br>
+
 <!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=milan-jani&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=milan-jani&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophies" />
 
 </div>
 
-<!-- Divider -->
+<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏆 &nbsp;Achievements & Projects
@@ -120,7 +130,7 @@ Interests:
 
 </div>
 
-<!-- Divider -->
+<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🤝 &nbsp;Let's Connect
@@ -128,25 +138,33 @@ Interests:
 <div align="center">
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milan-jani/)
+<a href="https://www.linkedin.com/in/milan-jani/">
+  <img src="https://img.shields.io/badge/LinkedIn-a18cd1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janimilan7077@gmail.com)
+<a href="mailto:janimilan7077@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-fbc2eb?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/milan-jani)
+<a href="https://github.com/milan-jani">
+  <img src="https://img.shields.io/badge/GitHub-a6c1ee?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
-<br>
+<br><br>
 
-### 💬 *"Engineering the future, one circuit and one line of code at a time."*
+<i>"Engineering the future, one circuit and one line of code at a time."</i>
 
 <br>
 </div>
 
 <!-- Contribution Snake Animation -->
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/milan-jani/milan-jani/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/milan-jani/milan-jani/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/milan-jani/milan-jani/output/github-snake-dark.svg" />
 </picture>
+</div>
 
-<!-- Animated Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" />
+<!-- Capsule Render — Animated Waving Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a18cd1,50:fbc2eb,100:a6c1ee&height=120&section=footer" />
